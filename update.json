@@ -1,7 +1,7 @@
 {
   "app_name": "Zylen Tweaker",
-  "latest": "2.1",
+  "latest": "2.0",
   "notes": "Zylen Tweaker v2.0 release with updated gaming UI and installer packaging.",
-  "installer_url": "https://github.com/zylenofficial/zylen/releases/download/v2.1/Zylen.Installer.exe"
+  "installer_url": "https://github.com/zylenofficial/zylen/releases/download/v2.0/Zylen.Installer.exe",
   "published_at": "2026-04-19T00:00:00+03:00"
 }
