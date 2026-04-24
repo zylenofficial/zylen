@@ -1,8 +1,8 @@
 {
   "app_name": "Zylen Tweaker",
-  "latest": "2.1",
-  "notes": "Zylen Tweaker v2.1 adds Smart Cleanup and optimizer polish.",
-  "installer_url": "https://github.com/zylenofficial/zylen/releases/download/v2.1/Zylen.Installer.exe",
-  "sha256": "FD1145F38ABB56D9D2CCBAF2A2D2A5CB4E6FDBF602CFC2002D7157CB8A578E20",
-  "published_at": "2026-04-23T23:30:00+03:00"
+  "latest": "2.2",
+  "notes": "Zylen Tweaker v2.2 update.",
+  "installer_url": "https://github.com/zylenofficial/zylen/releases/download/v2.2/Zylen.Installer.exe",
+  "sha256": "7B2E9BA3BBDC874F675F4486691928F2091CEFF335A90C28D46A8965B62E72AB",
+  "published_at": "2026-04-24T21:46:00+03:00"
 }
