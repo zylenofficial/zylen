@@ -2,7 +2,7 @@
   "app_name": "Zylen Tweaker",
   "latest": "2.3",
   "notes": "Zylen Tweaker v2.3 update.",
-  "installer_url": "https://github.com/zylenofficial/zylen/releases/download/v2.3/Zylen.Installer.exe",
-  "sha256": "0D376A16A6BEB7F35625A9390522E0A8BD494446D6041475573B36D7BCB80A6F",
+  "installer_url": "https://github.com/zylenofficial/zylen/releases/download/v2.3/Zylen%20Installer.exe",
+  "sha256": "B19B46FA08FA0A0442E80F42487E50BC7703D8E2DDDE2C749D420867536B4B40",
   "published_at": "2026-04-24T21:46:00+03:00"
 }
